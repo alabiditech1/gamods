@@ -1,0 +1,73 @@
+﻿{"version_code":9,"content":"
+<p>تحديث 8.0</p>
+
+<li>التحديث للإصدار 2.18.102<li>
+<li>إضافة خيار لنقل الشريط العلوي إلى الأسفل بدلاً من الأعلى<li>
+<li>الآن يمكنك تسجيل الملاحظة الصوتية والسحب للأعلى ثم تظهر شارة قفل، إذا قمت بتفعيلها يبقى التسجيل فعال دون لمس <li>الشاشة
+<li>إضافة قسم لإدارة ملفات الكاش وإمكانية حذفها (قد يصل حجها ل 2غيغا لذلك يفضل حذفها باستمرار)<li>
+<li>إمكانية الضغط على الروابط في الحالة / الخبر<li>
+<li>إضافة الزر العائم<li>
+<li>إضافة قسم للتحكم بالزر العائم<li>
+<li>إمكانية فتح دردشة جديدة من الزر العائم<li>
+<li>إمكانية فتح إعدادات الخصوصية من الزر العائم<li>
+<li>إضافة خيار لإخفاء الزر العائم<li>
+<li>إضافة خيار لإخفاء زر الخصوصية من الزر العائم<li>
+<li>إضافة خيار لإخفاء زر الإعدادات من الزر العائم<li>
+<li>إضافة خيار لتغيير حجم الزر العائم<li>
+<li>إضافة خيار لتغيير مكان الزر العائم(يسار او يمين الشاشة)<li>
+<li>إعادة إضافة عداد الرسائل في المجموعات (أدخل لمعلومات المجموعة وترى عدد الرسائل من الأعضاء)<li>
+<li>إعادة إضافة خيار وضع الإسم والرقم أو الحالة بدلاً من كلمة واتساب في الشريط العلوي<li>
+<li>إضافة خيار لإلغاء فتح الكيبورد بشكل تلقائي عند دخول محادثة<li>
+<li>إضافة خيار لتعطيل عداد الرسائل على ايقونة البرنامج<li>
+<li>إضافة خيار لإخفاء الحالات الغير هامة في شاشة الحالة / الستوري<li>
+<li>إضافة خيار لإخفاء الحالات التي تمت مشاهدتها في شاشة الحالة / الستوري<li>
+<li>إضافة خيار لإخفاء الحالات الحديثة في شاشة الحالة / الستوري<li>
+<li>إضافة خيار لمشاركة الصور بأعلى دقة<li>
+<li>إضافة خيار لإرسال الصور بالجودة الأصلية<li>
+<li>إضافة خيار لمشاركة الحالة بأعلى دقة<li>
+<li>إضافة خيار لعدم توقيف الرسالة الصوتية عند وصول إشعار ما<li>
+<li>إضافة خيار لإرسال حالة مدتها 30 دقيقة بدلاً من 30 ثانية<li>
+<li>إضافة خيار للبحث عن تحديث جديد<li>
+<li>إضافة خيار لعرض سجل التغيرات<li>
+<li>تحسينات على خيار تغيير اللغة<li>
+<li>إصلاح القفل عند الدخول من الإشعارات<li>
+<li>إصلاح عدم عمل القفل في بعض الأجهزة<li>
+<li>إصلاح عدم إرسال الرسالة عند إدخال رقم ومراسلته في خيار رسالة لرقم غير محفوظ<li>
+<li>إصلاح مشكلة تأخر وصول الرسائل<li>
+<li>إصلاح التشويش في الرسائل الصوتية عند فتحها<li>
+<li>إصلاحات أخرى<li>
+
+<li>New Base Updated to 2.18.102<li>
+<li>Now you can record the voice note and drag up and a lock icon appears. If activated, the recording remains effective without touching the screen<li>
+<li>Added a section to manage cache files and delete them (may be up to 2 GB, so delete them constantly)<li>
+<li>Ability to click links in status / news<li>
+<li>Ability to hide View status in status row<li>
+<li>Ability to hide Recent status in status row<li>
+<li>Ability to hide Mute status in status row<li>
+<li>Improved option change App Language<li>
+<li>Added an option to Change Lancher icon (30 icons)<li>
+<li>Added 41 more Notifications icon<li>
+<li>Added FAB in Main Screen (include many options to customize Fab)<li>
+<li>Added New Chat Option in Fab<li>
+<li>Added Option to Change Fab Size<li>
+<li>Added Option to Change Fab Location/Position<li>
+<li>Add an option to share photos at the high resolution<li>
+<li>Add an option to send images of original quality<li>
+<li>Add an option to share status with high resolution<li>
+<li>Add an option to not stop the voice message when a notification arrives<li>
+<li>Added option to Send a video to your Status for 30 minutes instead of 30 seconds<li>
+<li>Added an option to search for a new update<li>
+<li>Added an option to view changeLogs<li>
+<li>No ADS! Ads-free<li>
+<li>Enabled All hidden features..<li>
+<li>Fixed message access delay<li>
+<li>Fixed delay in Hide Blue tick by 99%<li>
+<li>Fixed lock when entering notifications<li>
+<li>Fixed lock in some devices <li>
+<li>Fixed the jamming of voice messages when opened<li>
+<li>Fixed does not send the message when you enter a number and you send it in a message option send msg to number that is not saved<li>
+<li>Bugs fixes and speed improvements...<li>
+
+
+","url":"https://www.gbmods.co/?p=19"
+}
