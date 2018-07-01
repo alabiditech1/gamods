@@ -1,4 +1,4 @@
-﻿{"version_code":10,"content":"
+﻿{"version_code":8,"content":"
 <p>تحديث 9.0</p>
 
 <li>التحديث للإصدار 2.18.102<li>
